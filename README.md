@@ -1,4 +1,4 @@
 ## coding
 
-* [CSS 문법](css .md)
+* [CSS gr](CSS gr.md)
 
